@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS37800KMACTR-090B3-I2C
+D Isolated, Digital Output, Power Monitoring IC With Zero-Crossing Detection, Overcurrent And Overvoltage Flagging
+K
+F https://www.allegromicro.com/-/media/files/datasheets/acs37800-datasheet.ashx?sc_lang=en&hash=1C7B0351F268B7F35F9A980074E4AA64
+$ENDCMP
+#
+#End Doc Library

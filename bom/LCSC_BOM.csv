@@ -1,0 +1,24 @@
+LCSC Part Number;Manufacture Part Number;Manufacturer;Customer NO.;Package;Description;RoHS;Order Qty.;Min\Mult Order Qty.;Unit Price;Order Price
+C165948;TYPE-C-31-M-12;Korean Hroparts Elec;;SMD;5A 1 16 Female Type-C SMD  USB Connectors ROHS;YES;5;5\5;0.217400;1.09
+C209903;HLK-PM01;HI-LINK;;Plugin;5V 0.6A 90VAC~265VAC 120V~350V 3W AC-DC 73% Plugin  Power Modules ROHS;YES;2;1\1;2.512.100;5.02
+C709041;JL500-50802G01;JILN;;P=5.08mm;Copper -40℃~+105℃ 15A 300V Green Tin 14~26 250℃ 5.08mm 0.2~2 1 2 P=5.08mm  Screw terminal ROHS;YES;10;5\5;0.132500;1.33
+C363068;STE10D561K1EQ0FST0R0;STE(Songtian Elec);;Plugin;925V 460V 350V 504V~616V Plugin  Varistors ROHS;YES;5;5\5;0.081400;0.41
+C437645;50ZLH220MEFCT810X16;Rubycon;;Plugin,D10xL16mm;220uF 50V 10mm 16mm 5mm ±20% 10000hrs@105℃ Plugin,D10xL16mm  Aluminum Electrolytic Capacitors - Leaded ROHS;YES;5;5\5;0.178200;0.89
+C117677;B32521C3104K189;TDK;;Plugin,P=10mm;±10% 250V 100nF -55℃~+125℃ Metallized Polyester Plugin,P=10mm  Film Capacitors ROHS;YES;5;1\1;0.271900;1.36
+C434330;MEF104K250D02;Jimson;;Plugin,P=10mm;±10% 250V 100nF -40℃~+85℃ PET Plugin,P=10mm  Film Capacitors ROHS;YES;5;5\5;0.079400;0.40
+C479110;PTFR1206B1M00P9;Resistor.Today;;1206;250mW Thin Film Resistor 200V ±25ppm/℃ ±0.1% -55℃~+125℃ 1MΩ 1206  Chip Resistor - Surface Mount ROHS;YES;20;5\5;0.208900;4.18
+C2849373;PTFR0805B8K20P9;Resistor.Today;;805;0.13W Thin Film Resistor 150V ±0.1% -55℃~+155℃ 8.2kΩ 0805  Chip Resistor - Surface Mount ROHS;YES;10;5\5;0.140300;1.40
+C140321;TPS2115ADRBR;Texas Instruments;;SON-8(3x3);SON-8(3x3)  Battery Management ICs ROHS;YES;3;1\1;1.778.700;5.34
+C9055;SPX3819M5-L-3-3/TR;MaxLinear;;SOT-23-5;500mA 70dB Fixed 3.3V~3.3V Positive 16V SOT-23-5  Linear Voltage Regulators (LDO) ROHS;YES;5;1\5;0.167900;0.84
+C7519;USBLC6-2SC6;STMicroelectronics;;SOT-23-6;6V 17V Unidirectional 5.25V SOT-23-6  ESD Protection Devices ROHS;YES;5;5\5;0.120500;0.60
+C964055;HBLS2012-2N2S;HYHONGYEX;;805;600mA 2.2nH 100mΩ 0805  Inductors (SMD) ROHS;YES;50;1\50;0.010400;0.52
+C2895038;B-2101S10P-B110;Ckmtw(Shenzhen Cankemeng);;Plugin,P=1.27mm;1A Straight Square Pins 1mm 3mm -40℃~+105℃ 1.8mm 10 1.27mm 双排 Black 1.27mm 2x5P Plugin,P=1.27mm  Pin Headers ROHS;YES;5;5\5;0.079200;0.40
+C193404;1N4007WS;MDD（Microdiode Electronics）;;SOD-323;1A 1kV 1.1V@1A SOD-323  Diodes - General Purpose ROHS;YES;20;20\20;0.031400;0.63
+C2838502;ESP32-C3-MINI-1-N4;Espressif Systems;;SMD,13.2x16.6mm;SMD,13.2x16.6mm  RF Modules ROHS;YES;2;1\1;2.545.500;5.09
+C5355440;A-SC170Y3C-A01-3T;Amicc;;805;20mA Colorless transparence 140mcd 588.5nm~594.5nm -40℃~+85℃ 正贴 yellow 140° 60mW 1.7V~2.3V 0805  Light Emitting Diodes (LED) ROHS;YES;10;10\10;0.054700;0.55
+C520082;CC0805JRX7R7BB104;YAGEO;;805;16V 100nF X7R ±5% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS;YES;50;50\50;0.012400;0.62
+C2180714;CC0805MRX7R8BB103;YAGEO;;805;25V 10nF X7R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS;YES;50;50\50;0.006500;0.33
+C87157;EMK212BJ106KG-T;Taiyo Yuden;;805;16V 10uF X5R ±10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS;YES;50;50\50;0.015900;0.80
+C204548;CR0805-FX-5101ELF;BOURNS;;805;125mW ±100ppm/℃ ±1% 5.1kΩ 0805  Chip Resistor - Surface Mount ROHS;YES;50;50\50;0.012400;0.62
+C204522;CR0805-FX-4700ELF;BOURNS;;805;125mW Thick Film Resistors ±100ppm/℃ ±1% -55℃~+155℃ 470Ω 0805  Chip Resistor - Surface Mount ROHS;YES;50;50\50;0.012800;0.64
+C237770;RMCF0805JT4K70;SEI(Stackpole Elec);;805;125mW 150V ±200ppm/℃ ±5% -55℃~+125℃ 4.7kΩ 0805  Chip Resistor - Surface Mount ROHS;YES;50;50\50;0.006800;0.34
